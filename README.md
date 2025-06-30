@@ -15,7 +15,7 @@ A modern, interactive web application for visualizing and experimenting with the
 ## 🚀 Quick Start
 
 1. **Clone the repository**: <br/>
-git clone `git@github.com:vimanshaMJ/perceptron_web_app.git` <br/>
+git clone `git@github.com:vimanshaMJ/interactive-perceptron-classifier.git` <br/>
 cd perceptron_web_app
 
 
