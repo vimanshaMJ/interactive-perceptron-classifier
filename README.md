@@ -15,21 +15,21 @@ A modern, interactive web application for visualizing and experimenting with the
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**:
-git clone git@github.com:vimanshaMJ/perceptron_web_app.git
+1. **Clone the repository**: <br/>
+git clone `git@github.com:vimanshaMJ/perceptron_web_app.git` <br/>
 cd perceptron_web_app
 
 
-2. **Create virtual environment**:
-python -m venv venv
+2. **Create virtual environment**:<br/>
+python -m venv venv <br/>
 venv\Scripts\activate
 
 
-3. **Install dependencies**:
+3. **Install dependencies**: <br/>
 pip install -r requirements.txt
 
 
-4. **Run the application**:
+4. **Run the application**: <br/>
 python app.py
 
 
@@ -44,11 +44,11 @@ python app.py
 5. **Test Predictions**: Input custom values to test the trained model
 6. **Export Results**: Download your data and model for later use
 
-## 🛠️ Technical Details
+## 🛠️ Technical Tools
 
+- **Machine Learning**: Custom perceptron implementation with NumPy
 - **Backend**: Flask with RESTful API endpoints
 - **Frontend**: Vanilla JavaScript with Plotly.js and Chart.js
-- **Machine Learning**: Custom perceptron implementation with NumPy
 - **Visualization**: Interactive plots with real-time updates
 - **Responsive Design**: CSS Grid and Flexbox for modern layouts
 
@@ -70,23 +70,6 @@ perceptron_web_app/
 └── templates/
     └── index.html
 ```
-
-
-## 🎨 Customization
-
-The application is highly customizable. You can:
-- Modify the perceptron algorithm in `models/perceptron.py`
-- Add new data generation methods in `utils/data_generator.py`
-- Customize the UI by editing `static/css/style.css`
-- Extend functionality by adding new API endpoints in `app.py`
-
-## 📱 Mobile Support
-
-The application is fully responsive and works on mobile devices, tablets, and desktops.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
